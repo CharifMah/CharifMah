@@ -11,4 +11,4 @@ I am a French student in computer science.🖥️🖥️🖥️
 
 #### 👀Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=CharifMah.README)
+![](https://komarev.com/ghpvc/?username=CharifMah&label=PROFILE+VIEWS)
