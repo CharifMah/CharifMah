@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello everyone and welcome to my github profile 👋
 
-<!--
-**CharifMah/CharifMah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a French student in computer science.🖥️🖥️🖥️
 
-Here are some ideas to get you started:
+#### 🧑🏾‍💻Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharifMah&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **🔭 I am currently working on MultiMonitorGammaControl which applies gamma correction with multiple monitors**
+- **🌱 I am learning C#**
+- **📫 How to reach me: charif25430@hotmail.fr**
+
+#### 👀Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=CharifMah.README)
