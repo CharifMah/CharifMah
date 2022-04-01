@@ -7,7 +7,6 @@ I am a French student in computer science.🖥️🖥️🖥️
 
 - **🔭 I am currently working on MultiMonitorGammaControl which applies gamma correction with multiple monitors**
 - **🌱 I am learning C#**
-- **📫 How to reach me: charif25430@hotmail.fr**
 
 #### 👀Profile Visits 
 
