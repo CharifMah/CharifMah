@@ -2,11 +2,15 @@
 
 I am a French student in computer science.🖥️🖥️🖥️
 
-#### 🧑🏾‍💻Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharifMah&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 - **🔭 I am currently working on MultiMonitorGammaControl which applies gamma correction with multiple monitors**
-- **🌱 I am learning C#**
+- **🌱 I am learning C# | WPF/XAML | Bash | PowerShell**
+
+#### 🧑🏾‍💻Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharifMah&theme=gruvbox)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CharifMah&theme=gruvbox)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharifMah&theme=gruvbox)
 
 #### 👀Profile Visits 
 
