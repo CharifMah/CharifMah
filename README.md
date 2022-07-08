@@ -3,7 +3,7 @@
 I am a French student in computer science.🖥️🖥️🖥️
 
 - **🔭 I am currently working on MultiMonitorGammaControl which applies gamma correction with multiple monitors**
-- **🌱 I am learning C# | WPF/XAML | Bash | PowerShell || Selenium**
+- **🌱 I am learning C# || WPF/XAML || Bash || PowerShell || Selenium || VueJS || PureCss || Php || SQL**
 
 #### 🧑🏾‍💻Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharifMah&theme=gruvbox)
